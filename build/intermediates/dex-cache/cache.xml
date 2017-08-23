@@ -3,93 +3,147 @@
 
     <item
         is-multidex="false"
-        jar="/Users/robint/Documents/dev/TTSAndroid/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.2.0/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.0"
-        sha1="702d339bc0a81d21354cd7e2cf2b67225fa4a16c">
-        <dex dex="/Users/robint/Documents/dev/TTSAndroid/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.2.0_6653cc1d4ab27358f29f22320502e48e78ec9c0c.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/robint/Documents/dev/TTSAndroid/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.2.0/jars/classes.jar"
+        jar="/Users/manengamungandi/Documents/Android Projects/tts/ttsAndroid-test/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.2.0/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.0"
         sha1="e820b7be8c035dd522da4bc822e8a76c8e27921a">
-        <dex dex="/Users/robint/Documents/dev/TTSAndroid/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.2.0_37e37465ed3e56f0f026440cfb127aee30ae786a.jar" />
+        <dex dex="/Users/manengamungandi/Documents/Android Projects/tts/ttsAndroid-test/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.2.0_356e09e1b76086958f361e5365c2d3acd2558c6e.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/Users/robint/Documents/dev/TTSAndroid/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.2.0/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.0"
-        sha1="67eb33110dbacb46a48175b08ae0c96761d2c17d">
-        <dex dex="/Users/robint/Documents/dev/TTSAndroid/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.2.0_2f669143f5924382e64c47c88f9e7dd23aaa618f.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/robint/Documents/dev/TTSAndroid/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.2.0/jars/classes.jar"
+        jar="/Users/manengamungandi/Documents/Android Projects/tts/ttsAndroid-test/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.2.0/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.0"
         sha1="8fe8a8f77d651982ce5e18f6187dc4daf914ac57">
-        <dex dex="/Users/robint/Documents/dev/TTSAndroid/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.2.0_d21344792f1352873bd9edcf0e1501918812e333.jar" />
+        <dex dex="/Users/manengamungandi/Documents/Android Projects/tts/ttsAndroid-test/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.2.0_7c7c88a7b52aa1380502a7386ffc5a021d74c3c9.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/Users/robint/Documents/dev/TTSAndroid/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.2.0/jars/classes.jar"
+        jar="/Users/manengamungandi/Documents/Android Projects/tts/ttsAndroid-test/app/build/intermediates/exploded-aar/com.github.medyo/fancybuttons/1.8.4/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.0"
-        sha1="ee394a892dd21c03a528139c1e8d4e0e1264ac84">
-        <dex dex="/Users/robint/Documents/dev/TTSAndroid/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.2.0_bd9017d0fb8fff10d237ce573e46ab7c1e24fe00.jar" />
+        sha1="0da2f8459495e4a30df229e36e0b9a36e496eece">
+        <dex dex="/Users/manengamungandi/Documents/Android Projects/tts/ttsAndroid-test/app/build/intermediates/pre-dexed/debug/com.github.medyo-fancybuttons-1.8.4_6d58643b4249211209969635dec940a9f376b546.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/Users/robint/Documents/dev/TTSAndroid/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.2.0/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.0"
-        sha1="810f41e5b7fd99f196ebeabe865ba2c54e7e76dc">
-        <dex dex="/Users/robint/Documents/dev/TTSAndroid/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.2.0_18d886c9f3f6579936cd43e2a13ca6f264b23fa7.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/robint/Documents/dev/TTSAndroid/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.2.0/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.0"
-        sha1="fa0446a14ed5dd3725047d6399ffea771a564b30">
-        <dex dex="/Users/robint/Documents/dev/TTSAndroid/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.2.0_9b063fade7a692487c876da909768be0596d9b44.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/robint/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.2.0/support-annotations-25.2.0.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.0"
-        sha1="4a5a82a027706397fff621b22fd6fa796e91d7c5">
-        <dex dex="/Users/robint/Documents/dev/TTSAndroid/app/build/intermediates/pre-dexed/debug/support-annotations-25.2.0_97f391b8fff9cc54f08e37fe4c5aa2268632cce3.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/robint/Documents/dev/TTSAndroid/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.2.0/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.0"
-        sha1="cb454b52545859ed2f24a6c01366805b0fa04b22">
-        <dex dex="/Users/robint/Documents/dev/TTSAndroid/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.2.0_06c8f73eaefc9446a8e0ff2343ad2a45733f0024.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/robint/Documents/dev/TTSAndroid/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.2.0/jars/classes.jar"
+        jar="/Users/manengamungandi/Documents/Android Projects/tts/ttsAndroid-test/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.2.0/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.0"
         sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
-        <dex dex="/Users/robint/Documents/dev/TTSAndroid/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.2.0_65b5a716ecb763976265bb34c85003680b02bc0c.jar" />
+        <dex dex="/Users/manengamungandi/Documents/Android Projects/tts/ttsAndroid-test/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.2.0_3b16ab4e620a276bd81792853c0ecc90e5d852bd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/manengamungandi/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.8.1/2a8e0aa38a2e21cb39e2f5a7d6704cbdc941da0/gson-2.8.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="02a8e0aa38a2e21cb39e2f5a7d6704cbdc941da0">
+        <dex dex="/Users/manengamungandi/Documents/Android Projects/tts/ttsAndroid-test/app/build/intermediates/pre-dexed/debug/gson-2.8.1_2c22f53b4f66fa8d922dfb0b05d20e6fa3b90a5c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/manengamungandi/Documents/Android Projects/tts/ttsAndroid-test/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="914f5d3e3ace66080e59613708f06d129a222e25">
+        <dex dex="/Users/manengamungandi/Documents/Android Projects/tts/ttsAndroid-test/app/build/intermediates/pre-dexed/debug/com.android.support-cardview-v7-25.3.1_dd5c6190b0519f28f3cf684cd90cbe61cdf0005e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/manengamungandi/Documents/Android Projects/tts/ttsAndroid-test/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ee394a892dd21c03a528139c1e8d4e0e1264ac84">
+        <dex dex="/Users/manengamungandi/Documents/Android Projects/tts/ttsAndroid-test/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.2.0_b194da3331e9834a9dffce5049c721b2dd22e0f3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/manengamungandi/Documents/Android Projects/tts/ttsAndroid-test/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="810f41e5b7fd99f196ebeabe865ba2c54e7e76dc">
+        <dex dex="/Users/manengamungandi/Documents/Android Projects/tts/ttsAndroid-test/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.2.0_e71899bd989f9b03d8d2fad0950e2a0569bb8ce2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/manengamungandi/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/Users/manengamungandi/Documents/Android Projects/tts/ttsAndroid-test/app/build/intermediates/pre-dexed/debug/support-annotations-25.3.1_786b5439c221af65337af55737672893bc4796ee.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/manengamungandi/Documents/Android Projects/tts/ttsAndroid-test/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/Users/manengamungandi/Documents/Android Projects/tts/ttsAndroid-test/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.3.1_e0450de52fddd25ca4150a8322e88b30a4fbef49.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/manengamungandi/Documents/Android Projects/tts/ttsAndroid-test/app/build/intermediates/exploded-aar/com.android.support.constraint/constraint-layout/1.0.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/Users/manengamungandi/Documents/Android Projects/tts/ttsAndroid-test/app/build/intermediates/pre-dexed/debug/com.android.support.constraint-constraint-layout-1.0.2_cc28cf9f875612d2ed26b87a565c0e701530a97e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/manengamungandi/Documents/Android Projects/tts/ttsAndroid-test/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="702d339bc0a81d21354cd7e2cf2b67225fa4a16c">
+        <dex dex="/Users/manengamungandi/Documents/Android Projects/tts/ttsAndroid-test/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.2.0_5c2eafa0875b1bc16ba44696b1dc4551351ef89c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/manengamungandi/Documents/Android Projects/tts/ttsAndroid-test/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="/Users/manengamungandi/Documents/Android Projects/tts/ttsAndroid-test/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-25.3.1_917df4d5b901adff739b95cd2b3249bd2b44b88b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/manengamungandi/Documents/Android Projects/tts/ttsAndroid-test/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/Users/manengamungandi/Documents/Android Projects/tts/ttsAndroid-test/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.3.1_772437af99025dbb9659dc53639ca0a3b59e3eea.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/manengamungandi/Documents/Android Projects/tts/ttsAndroid-test/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="cb454b52545859ed2f24a6c01366805b0fa04b22">
+        <dex dex="/Users/manengamungandi/Documents/Android Projects/tts/ttsAndroid-test/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.2.0_1cd09beca7890fdd3c572328a5f5e70c46f96a5c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/manengamungandi/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/Users/manengamungandi/Documents/Android Projects/tts/ttsAndroid-test/app/build/intermediates/pre-dexed/debug/constraint-layout-solver-1.0.2_3db9e36a7b0131469f89feb10abbcadf2ea2dc07.jar" />
     </item>
 
 </items>
