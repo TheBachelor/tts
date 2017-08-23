@@ -60,6 +60,7 @@ public class TransactionActivity extends AppCompatActivity {
         spendingGroup.setBackgroundColor(color);
 
         TransactionVisualisation vis = (TransactionVisualisation)findViewById(R.id.visualisation);
+        vis.setVisibility(View.GONE);
         double[] incomeAndExpense = getIncomeAndExpense();
         vis.setAmounts(incomeAndExpense[0], incomeAndExpense[1]);
     }
